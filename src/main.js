@@ -106,7 +106,7 @@ data.purchase_records.forEach(record => {
 });
 
 
-const sellerSorted = Object.values(sellerStats).slice().sort((a, b) => b.sales - a.sales);
+const sellerSorted = Object.values(sellerStats).slice().sort((a, b) => b.profit - a.profit);
 const total = sellerSorted.length;
 
 sellerSorted.forEach((seller, index) => {
