@@ -1,4 +1,4 @@
-git@github.com:GranstremVasiliy/sales-bonus.git
+https://github.com/GranstremVasiliy/sales-bonus.git)](https://github.com/GranstremVasiliy/sales-bonus.git)
 # Проектная работа "Пряники"
 5 спринт, модуль JS
 
